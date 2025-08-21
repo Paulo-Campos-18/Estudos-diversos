@@ -1,0 +1,1 @@
+O tabalho consiste em ler e gravar dados em arquivo txt, o conteúdo lido é gravado em nós de uma lista encadeada, o usuário pode alterar a lista escadeada com funções básicas,adição, remoção por ISBN (pois o arquivo guarda informações de livros). Ao finalizar o programa o arquivo txt será sobrescrito pelo dados contidos nos nós da lista encadeada. 
