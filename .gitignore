@@ -12,8 +12,8 @@ bin/
 obj/
 Debug/
 Release/
-output
-.vscode
+output/
+.vscode/
 
 # Logs e arquivos temporários
 *.log
