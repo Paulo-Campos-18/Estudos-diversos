@@ -1,0 +1,40 @@
+# C# e Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vspscc
+*.vssscc
+
+# Pastas de compilação
+bin/
+obj/
+Debug/
+Release/
+output
+.vscode
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Banco de dados - SQLite
+*.db
+*.db3
+*.sqlite
+*.sqlite3
+
+# SQL Server - arquivos de script e backup
+*.mdf
+*.ldf
+*.bak
+
+# JavaScript / HTML / CSS
+node_modules/
+dist/
+.env
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
